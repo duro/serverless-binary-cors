@@ -1,0 +1,11 @@
+{
+  "name": "serverless-binary-cors",
+  "version": "1.0.0",
+  "description": "A Serverless frameowrk plugin to enable proper cors when APIGateway has binary media types configured",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duro",
+  "license": "ISC"
+}
